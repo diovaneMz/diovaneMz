@@ -1,7 +1,6 @@
 ### Olá, seja bem vindo ao meu perfil!!
 
-- 🌱 Estou estudando React
-- 🤝 Estou disposto a ajudar com qualquer projeto
+- 🌱 Atualmente cursando Analise e Desenvolvimento de Sistema pela PUC Minas.
 
 <div align="center">
   <a href="https://github.com/diovaneMz">
